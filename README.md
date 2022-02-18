@@ -1,6 +1,11 @@
-In this guide, we’ll see how to connect Linen Wallet to Aave to lend or borrow crypto for an interest.
+## About Linen Wallet and Our Recent Launch on Polygon
+Linen Wallet is a user-friendly wallet offering a key-less experience to users on Polygon while using Gnosis Safe’s multi-signature smart contract to provide top-level security to everyone. Backed by Coinbase Ventures,  Polychain Capital, HashKey, and a community of over 5,000 investors via Republic, Linen Wallet empowers crypto users globally to connect to blockchain apps with unbelievable ease.  
 
-At the end of this guide, you will be able to safely connect to Aave and start earning interest on your crypto. (The same process applies to any other blockchain applications).
+At the beginning of February, we officially launched Linen Wallet on the Polygon network. Previously to the launch, we held a waitlist with $25000 in crypto prizes sponsored by partners like Polygon and Aave. 
+
+Almost 200k users got off the waitlist, and hundreds of them had already beta tested the app. Their feedback was unanimous—all of them LOVE Linen Wallet for its simplicity and private keys backup mechanism. 
+
+We are now working on producing educational content to further lower the barriers to accessing Web3 for newcomers. For example, below is the guide that we've shared with more than 100k crypto enthusiasts on how to use Linen Wallet with Aave: 
 
 ## How to Connect Linen Wallet to Aave
 Open the Aave website and click on Enter app.
