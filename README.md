@@ -5,6 +5,7 @@ At the end of this guide, you will be able to safely connect to Aave and start e
 How to Connect Linen Wallet to Aave
 Open the Aave website and click on Enter app.
 
+<img src="https://downloads.intercomcdn.com/i/o/463526974/0ed7938394e6e3d032afbfcf/Aave1C-min-min.png">
 
 Click on select a market and choose the Polygon network.
 
