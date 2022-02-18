@@ -43,7 +43,7 @@ Open your mobile browser again, click on the menu at the top-right as before. As
 
 <img src="https://downloads.intercomcdn.com/i/o/463528289/9d6acf5f8f798e1826fb3d23/Aave8c-min-min.png">
 
-How to Use Aave
+## How to Use Aave
 Now that we've seen how to connect to Aave, let's also see how to use Aave to earn interest on our crypto. From the menu, let's click on market.
 
 <img src="https://downloads.intercomcdn.com/i/o/463528289/9d6acf5f8f798e1826fb3d23/Aave8c-min-min.png">
